@@ -1,0 +1,55 @@
+** start of undefined **
+
+<!DOCYTPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+          <title id ="title">Otaku Ke</title>
+          </head>
+          <body>
+          <main id="main">
+            <figure id="img-div">
+              <div id="img-caption"><p>An example of anime</p>
+            <img id="image" alt="anime" src="https://images.app.goo.gl/Vmrt34RkQry8YhuV7"/>
+            </div>
+            </figure>
+            <section id="tribute-info">
+                          <p>Anime is more than just animated storytelling—it's an art form that transcends cultures, emotions, and realities. From breathtaking animation to deeply woven narratives, anime has captured the hearts of millions around the globe.</p>
+          <p>Anime is a realm where fantasy and reality merge, where emotions are amplified, and where ordinary stories become extraordinary. It has given us heroes who inspire, villains who challenge our perspectives, and journeys that stay in our hearts long after the final episode.</p>    
+          <p>Whether it's the heart-wrenching romance of "Your Name," the electrifying battles of "Attack on Titan," or the quiet beauty of Studio Ghibli’s masterpieces, anime speaks a universal language—one that tells us to dream boldly, love deeply, and fight for what we believe in.
+            
+            To anime—the medium that teaches us that even in the darkest of times, there's light, and that every character’s journey, no matter how different, is a reflection of our own.
+            
+            ✨ Arigatou, anime. You will forever be an irreplaceable part of storytelling history. 🎌🎥</p>  
+                              </section>
+                              <p>To watch anime you can try this site and many others like <a id="tribute-link" href="https://www.crunchyroll.com/?srsltid=AfmBOopR5NksJ-IMiXmHf89T8pLCcj_sk35oUu_pM9QY8Nadj6ZI3OUM" target="_blank">Crunchyroll</a></p>
+          </main>
+            </body>
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+#main {
+text-align: center;                  font-family: Arial, sans-serif;
+}
+                            #img-div {
+display: block;
+max-width: 100%;
+margin:auto;                      
+}
+                                                                                    #image {                    max-width: 100%;
+height: auto;
+display: block;
+margin: auto;
+}
+                    #img-caption {
+font-style: italic;
+}
+
+
+** end of undefined **
+
